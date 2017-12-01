@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should have default Header align 1`] = `
+.c0 {
+  color: #333;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#333"
+  size="15px"
+  weight="normal"
+/>
+`;
+
+exports[`should have default color Header 1`] = `
+.c0 {
+  color: #333;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#333"
+  size="15px"
+  weight="normal"
+/>
+`;
+
+exports[`should have default color size 1`] = `
+.c0 {
+  color: #333;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#333"
+  size="15px"
+  weight="normal"
+/>
+`;
+
+exports[`should have default weight 1`] = `
+.c0 {
+  color: #333;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#333"
+  size="15px"
+  weight="normal"
+/>
+`;
+
+exports[`should replace Header color 1`] = `
+.c0 {
+  color: #555;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#555"
+  size="15px"
+  weight="normal"
+/>
+`;
+
+exports[`should replace Header color 2`] = `
+.c0 {
+  color: #333;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: left;
+  margin: 20px 0;
+}
+
+<div
+  align="left"
+  className="c0"
+  color="#333"
+  size="15px"
+  weight="normal"
+/>
+`;
+
+exports[`should replace Header size 1`] = `
+.c0 {
+  color: #333;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#333"
+  size="50px"
+  weight="normal"
+/>
+`;
+
+exports[`should replace Header weight 1`] = `
+.c0 {
+  color: #333;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+}
+
+<div
+  align="center"
+  className="c0"
+  color="#333"
+  size="15px"
+  weight="bold"
+/>
+`;
